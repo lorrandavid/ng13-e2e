@@ -27,6 +27,7 @@
     "@angular-devkit/build-angular": "~13.3.11",
     "@angular/cli": "~13.3.11",
     "@angular/compiler-cli": "~13.3.0",
+    "@bgotink/playwright-coverage": "^0.3.2",
     "@playwright/test": "^1.53.1",
     "@types/jasmine": "~3.10.0",
     "@types/node": "^12.11.1",
